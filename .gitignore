@@ -1,0 +1,9 @@
+# JetBrains IDE
+.idea
+*/.idea
+
+# CMake debug info
+*/cmake-build-debug
+
+# g++ compiled files
+*/tmp.exe
